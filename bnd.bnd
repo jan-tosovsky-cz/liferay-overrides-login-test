@@ -1,0 +1,4 @@
+Bundle-Name: in.drifted.liferay.overrides.login
+Bundle-SymbolicName: in.drifted.liferay.overrides.login
+Bundle-Version: 1.0.0
+-sources: true
